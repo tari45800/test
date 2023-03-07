@@ -6,7 +6,7 @@ function App() {
 	const name = null;
   return(
     <div>
-      {name || <h1>리액트읍네??</h1>}
+      {name || <h1>리액트읍네???</h1>}
     </div>
   )
   
